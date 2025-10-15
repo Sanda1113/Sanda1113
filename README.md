@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandakan Mandara Liyanage</h1>
 <h3 align="center">Cloud & DevOps Geek | AI/ML Enthusiast| Second-Year Computer Science (Cloud) Undergraduate</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanda1113" alt="sanda1113" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
