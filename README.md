@@ -9,8 +9,6 @@
 
 👨‍💻 Portfolio: Coming Soon
 
-📄 Resume: Coming Soon
-
 ⚡ Fun Fact: You can automate anything…from cloud deployments to daily standups (well, almost!)
 
 <h3>📫 Connect With Me</h3>
